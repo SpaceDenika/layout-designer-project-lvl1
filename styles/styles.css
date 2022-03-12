@@ -247,6 +247,8 @@
   }
 
   .header__title {
+    margin-bottom: 25px;
+
     font-size: 40px;
     text-align: center;
   }
@@ -508,7 +510,7 @@
   }
 
   .navigation__list {
-    flex-flow: column/nowrap;
+    flex-flow: column nowrap;
   }
 }
 
