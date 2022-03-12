@@ -200,7 +200,7 @@
     margin-bottom: 100px;
   }
 
-  .header__img-container {
+  .header__img {
     height: 420px;
   }
 }
@@ -214,7 +214,7 @@
     margin-bottom: 75px;
   }
 
-  .header__img-container {
+  .header__img {
     right: -100px;
 
     height: 250px;
@@ -226,7 +226,7 @@
     max-width: 600px;
   }
 
-  .header__img-container {
+  .header__img {
     top: 100px;
     right: -135px;
 
@@ -251,7 +251,7 @@
     text-align: center;
   }
 
-  .header__img-container {
+  .header__img {
     position: static;
   }
 
@@ -274,7 +274,7 @@
     font-size: 36px;
   }
 
-  .header__img-container {
+  .header__img {
     height: 150px;
   }
 }
